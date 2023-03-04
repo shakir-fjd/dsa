@@ -10,4 +10,18 @@
  
  4. You may find brute force approach, better and optimal approach for few questions.
  
+ 
+ # Index
+ 
+ ## APNA COLLEGE
+ 
+ 1. Linked List
+ 2. Stacks
+ 3. Queues.
+ 4. Binary Trees.
+ 5. Heaps.
+ 6. Hashing.
+ 7. Tries.
+ 
+ 
  NOTE: I will be updating this repository every day and solving question from leetcode, feel free give it a star.
